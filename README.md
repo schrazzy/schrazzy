@@ -55,12 +55,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31sdobs724blaoqvlhxao77gkzgi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sdobs724blaoqvlhxao77gkzgi&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
